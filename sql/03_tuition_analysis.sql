@@ -1,5 +1,5 @@
 -- Student Academic Success & Dropout Analysis
--- 03: Tuition payment status and dropout
+-- 03: Tuition payment status and dropout :)
 
 SELECT
     CASE
