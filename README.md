@@ -217,6 +217,24 @@ student-dropout-analysis-sql/
 
 ---
 
+## Visualizations
+
+### First-Semester Academic Completion
+
+![Dropout rate by first-semester approved units](visualizations/01_dropout_rate_by_first-semester_approved_units.png)
+
+### Tuition Status
+
+![Dropout rate by tuition status](visualizations/02_dropout_rate_by_tuition_status.png)
+
+### Age at Enrollment
+
+![Dropout rate by age at enrollment](visualizations/03_dropout_rate_by_age_at_enrollment.png)
+
+### Scholarship Status
+
+![Dropout rate by scholarship status](visualizations/04_dropout_rate_by_scholarship_status.png)
+
 ## Limitations
 
 This project identifies **associations**, not causal relationships.
