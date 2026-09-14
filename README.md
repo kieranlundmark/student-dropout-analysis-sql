@@ -42,15 +42,15 @@ The overall observed dropout rate of **32.1%** serves as a baseline for comparis
 
 ### 1. First-Semester Academic Completion
 
-First-semester course completion showed the strongest early relationship with eventual dropout in the analysis.
+Among students with first-semester enrollment, course completion showed the strongest early relationship with eventual dropout in the analysis.
 
-| Approved Units | Students | Dropout Rate |
-| -------------- | -------: | -----------: |
-| 0–2            |    1,005 |   **77.11%** |
-| 3–4            |      702 |   **42.31%** |
-| 5              |      723 |   **20.06%** |
-| 6              |    1,171 |    **9.99%** |
-| 7+             |      823 |   **10.57%** |
+| Approved Units (First Semester) | Students | Dropout Rate |
+| -------------------------------:| -------: | -----------: |
+| 0–2                             |    1,005 |   **77.11%** |
+| 3–4                             |      702 |   **42.31%** |
+| 5                               |      723 |   **20.06%** |
+| 6                               |    1,171 |    **9.99%** |
+| 7+                              |      823 |   **10.57%** |
 
 Students who approved 0–2 courses during their first semester had a substantially higher observed dropout rate than students who approved 5 or more courses.
 
