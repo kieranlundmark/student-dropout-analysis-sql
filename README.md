@@ -151,7 +151,7 @@ Examples include:
 * **Scholarship × Tuition Status**
 * **Tuition × Academic Performance**
 
-These analyses helped distinguish relationships that remained relatively consistent from those that appeared to be driven partly by another variable.
+These analyses helped me to distinguish relationships that remained relatively consistent from those that appeared to be driven partly by another variable.
 
 ---
 
@@ -174,7 +174,7 @@ The students themselves were **not removed from the overall dataset**.
 
 ## SQL Techniques Demonstrated
 
-This project uses a range of SQL techniques, including:
+In this project I used a range of SQL techniques, including:
 
 * `SELECT`, `WHERE`, `GROUP BY`, and `ORDER BY`
 * `CASE` expressions for categorical transformations
